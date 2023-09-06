@@ -5,6 +5,6 @@ git repo
 
 test local
 
-*test bull 1
-*test bull 2
-*test bull 3
+* test bull 1
+* test bull 2
+* test bull 3
